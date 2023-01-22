@@ -9,7 +9,7 @@ function Seccion(){
         <div className="container-Seccion">
         <Perfil />
         <Tarjeta2 imagen={information.iconoPro} titulo={information.titulo4} list={information.proyectos} id="informacion" img1={information.iconCirculo} img2={information.iconCirculo} img3={information.iconCirculo} />
-        <Tecnologia imagen={information.iconTra} titulo={information.titulo5}  list={information.tecnologias}  img1={information.iconRe} img2={information.iconRe} img3={information.iconRe} />
+        <Tecnologia imagen={information.iconTra} titulo={information.titulo5}  list={information.tecnologias} list2={information.espacio} list3={information.tec} list4={information.espacio} />
         </div>
     )
 }
