@@ -13,5 +13,7 @@ export const information = {
     titulo3:"INTERESES",
     iconCirculo:"/icons/Bola.svg",
     intereses:["Estrategias de documentacion", "Diseño UI", "Gestion de proyectos"],
-    titulo1:"CONTACTO"
+    titulo1:"CONTACTO",
+    titulo4:"PROYECTOS",
+    iconoPro:"/icons/Proyecto.svg"
 };

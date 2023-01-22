@@ -1,5 +1,5 @@
 .perfil{
-    position: absolute;
+    border: 20px black solid;
     width: 87px;
     height: 42px;
     left: 30%;
@@ -10,4 +10,13 @@
     font-size: 36px;
     line-height: 42px;
     color: #756E6E;
+}
+.texto-perfil{
+    height: 210px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+    color: rgba(0, 0, 0, 0.8);
 }
