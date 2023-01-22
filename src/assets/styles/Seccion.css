@@ -8,7 +8,6 @@
 
 .container-title{
     height: 14%;
-    border: 4px red solid;
     display: inline-flex;
     position: relative;
     padding: 0% 30%;
@@ -31,7 +30,6 @@
     display: flex;
     flex-direction: row;
     margin-bottom: 5%;
-    border: 15px wheat solid;
 }
 .contenido-image{
     padding-left: 5%;
@@ -47,4 +45,23 @@
     margin-top: 3%;
     padding-left: 3%;
     font-size: 19px;
-}   
+}
+.flex-container{
+    border: 10px rebeccapurple solid;
+    width: 90%;
+    height:20%;
+    display: flex;
+    flex-direction: row;
+}
+.flex-text{
+    border: 1px red solid;
+    margin-left: 15%;
+    margin-top: 35%;
+}
+.flex-box{
+    border-radius: 20px;
+    background: black;
+    margin-left: 15%;
+    margin-top: 35%;
+
+}
