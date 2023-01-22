@@ -16,7 +16,7 @@ export const information = {
     titulo1:"CONTACTO",
     titulo4:"PROYECTOS",
     titulo5:"TECNOLOGIAS UTILIZADAS",
-    iconoPro:"/icons/Proyecto.svg",
+    iconoPro:"Proyecto.svg",
     iconTra:"/icons/Trabajo.svg",
     proyectos:["Yogulado, una app de escritorio para realizar comprar de helados, seleccionaba los helados que se van a comprar y los pagaba al instante","Fast Tracking, una app web para llevar el control de pacientes, se le asignaba tratamientos, agregaba nuevos pacientes",
     "Paginas web de informacion de un negocio"],
