@@ -2,16 +2,16 @@
     position: absolute;
     margin-top:22%;
     left: 30%;
-    height: 120%;
+    height: 170%;
     border: 5px aqua solid;
 }
 
 .container-title{
-    height: 30%;
+    height: 14%;
     border: 4px red solid;
     display: inline-flex;
     position: relative;
-    padding: 0px 35%;
+    padding: 0% 30%;
 }
 .image{
     box-sizing: border-box;
@@ -27,17 +27,24 @@
     text-align: center;
     padding-left: 4%;
 }
-.image::before, .image::after, .sub-container-title::before, .sub-container-title::after{
-    content: '';
-    position: absolute;
-    width: 120px;
-    height: 3px;
-    background-color: black;
-    top: 3rem;
+.informacion{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5%;
+    border: 15px wheat solid;
 }
-.image::before, .sub-container-title::before{
-    left: -8%;
+.contenido-image{
+    padding-left: 5%;
+    width: 10%;
+    margin-top: 2%;
+    padding-left: 3%;
+    font-size: 19px;
 }
-.image::after, .sub-container-title::after{
-    right: -8%;
-}
+.contenido-textos{
+    width: 95%;
+    text-align: justify;
+    font-family: 'Roboto';
+    margin-top: 3%;
+    padding-left: 3%;
+    font-size: 19px;
+}   
