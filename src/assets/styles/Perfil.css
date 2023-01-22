@@ -1,0 +1,13 @@
+.perfil{
+    position: absolute;
+    width: 87px;
+    height: 42px;
+    left: 30%;
+    top: 370px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    color: #756E6E;
+}

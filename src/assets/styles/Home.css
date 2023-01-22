@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: #F2F2F2;
+    position: absolute;
+    width: 1377px;
+    height: 1730px;
+    left: 32px;
+    top: 325px;
+}

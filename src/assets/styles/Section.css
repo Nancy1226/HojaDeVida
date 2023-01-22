@@ -1,0 +1,40 @@
+.container-principal{
+    position: absolute;
+    width: 24%;
+    height: 50%;
+    left: 5%;
+    top: 45%;
+}
+
+.sub-container{
+    background: #99A3A4;
+    width: 100%;
+    padding-top: 1%;
+    margin-top: 0.5%;
+    height: 20%;
+}
+.titulo{   
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    line-height: 44px;
+    text-align: center;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 14%;
+}
+.contenido-img{
+    padding-top: 6%;
+    padding-bottom: 35%;
+    width: 100px;
+    height: 100px;
+    padding-left: 6%;
+}
+.contenido-texto{
+    width: 100%;
+    font-family: 'Roboto';
+    padding-top: 21%;
+    padding-left: 3%;
+    font-size: 18px;
+}
